@@ -4,4 +4,4 @@ Disallow: /admin/
 Disallow: /dashboard/
 Disallow: /api/
 
-Sitemap: https://xxx.vercel.app/sitemap.xml
+Sitemap: https://seo-test-page.vercel.app/sitemap.xml
